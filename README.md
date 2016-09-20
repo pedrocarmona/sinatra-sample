@@ -1,2 +1,7 @@
 # sinatra-sample
-to be used as example
+
+## Usage
+
+  docker-compose up
+
+Then visit http://localhost:4567
